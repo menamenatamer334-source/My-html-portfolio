@@ -1,12 +1,24 @@
 # My HTML Portfolio
 
-This is my first personal portfolio website built using HTML.
+## 📌 Project Overview
+This project is a personal portfolio website created using HTML. It showcases my personal information, skills, projects, and contact details through multiple web pages.
 
-## Features
-- About Me
-- Skills
-- Projects
-- Contact
+## ✨ Features
+- Home page
+- About Me section
+- Skills page
+- Projects page
+- Contact page
+- Navigation between all pages
 
-## Technologies
+## 🛠 Technologies Used
 - HTML
+
+## 🌐 Live Demo
+https://menamenatamer334-source.github.io/My-html-portfolio/
+
+## 📂 Repository
+https://github.com/menamenatamer334-source/My-html-portfolio.git
+
+## 👩‍💻 Author
+Menna Tamer
